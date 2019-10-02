@@ -1,0 +1,16 @@
+---
+:id: 14485663
+:submitters:
+- :name: David Marc Katz-Mirkovich
+  :email: dkatzmir@ucsd.edu
+- :name: Eric Nathan Trinh
+  :email: entrinh@ucsd.edu
+- :name: James Thomas Beighley
+  :email: jbeighle@ucsd.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2019-02-22 07:36:57.430785000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2019-02-21 23:36:57.430785000 Z
+:status: processed
+:score: 20.0
